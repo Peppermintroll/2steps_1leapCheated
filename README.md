@@ -1,3 +1,3 @@
-# Two Steps Forward, One Leap Below
+# Two Steps Forward, One Million Leaps Below
 
-## An unofficial mod for Social Democracy: An Alternate History
+## An unofficial mod cheat for Social Democracy: An Alternate History
