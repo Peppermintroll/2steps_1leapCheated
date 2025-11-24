@@ -80,8 +80,8 @@ For better or for worse, the party cannot exist without money.
 - @increase: Increase dues.
 
 @maintain
-subtitle: [+ dues +] resources gained.
-on-arrival: resources += dues;
+subtitle: +1000000 resources gained.
+on-arrival: resources += 1000000;
 
 We maintain our current dues.
 
